@@ -1,3 +1,7 @@
+
+
+import 'conditional_prog.dart';
+
 void main(){
 
   /*for(int a = 1; a<=100; a++){
@@ -5,6 +9,8 @@ void main(){
   }*/
 
   int no = 50;
+  print("Enter your name: ");
+  String name = getStrValue();
 
   while(no<100){
     print("$no. While-do executed!!");
