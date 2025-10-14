@@ -22,9 +22,17 @@ void main(){
   } while(no>100);*/
 
 
-  ///1. Find if the given no is PRIME no or not.
-  ///2. Find if the given no is ARMSTRONG no or not.
-  ///3. Find if the given no is PALINDROME no or not.
-  ///4. Print the Fibonacci series till the given no.
+  ///1. Find if the given no is PRIME no or not. (done)
+  ///A. Find all the PRIME no's before any given no.
+  ///B. Find all the PRIME no's between any given two no.
+  ///C. Find all the first n PRIME no's where n is no given.
+
+  ///2. Find if the given no is ARMSTRONG no or not. (done)
+  ///A. Find all the ARMSTRONG no's before any given no.
+  ///B. Find all the ARMSTRONG no's between any given two no.
+  ///C. Find all the first n ARMSTRONG no's where n is no given.
+
+  ///3. Find if the given no is PALINDROME no or not. (eg. 12321 -> 12321, 153 -> 351)
+  ///4. Print the Fibonacci series till the given no. (eg. 0 1 1 2 3 5 8 13 21....)
 
 }

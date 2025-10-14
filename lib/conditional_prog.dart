@@ -48,7 +48,15 @@ int getIntValue() {
   return int.parse(getStrValue());
 }
 
-///1. Find the Greatest of given 3 no's.
-///2. Find the Smallest of given 3 no's.
-///3. Find if the given no is ODD or EVEN.
-///4. Find if the given year is LEAP year or not
+///1. Find the Greatest of given 3 no's. (done)
+///2. Find the Smallest of given 3 no's. (do it yourself)
+///3. Find if the given no is ODD or EVEN. (done)
+///A. Find all the ODD no's before any given no.
+///B. Find all the ODD no's between any given two no.
+///C. Find all the first n ODD no's where n is no given.
+
+///A. Find all the EVEN no's before any given no.
+///B. Find all the EVEN no's between any given two no.
+///C. Find all the first n EVEN no's where n is no given.
+
+///4. Find if the given year is LEAP year or not (done)
