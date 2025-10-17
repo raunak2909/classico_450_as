@@ -1,6 +1,9 @@
 import 'package:flutter/material.dart';
 
 void main() {
+  int a = 5;
+
+  a*4;
   runApp(const MyApp());
 }
 
