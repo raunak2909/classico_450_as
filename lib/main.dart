@@ -4,7 +4,16 @@ void main() {
   int a = 5;
 
   a*4;
-  runApp(const MyApp());
+  runApp(MyWidget());
+}
+
+class MyWidget extends StatelessWidget{
+
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp();
+  }
+
 }
 
 class MyApp extends StatelessWidget {
