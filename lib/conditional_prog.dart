@@ -40,13 +40,11 @@ void main() {
   }
 }
 
-String getStrValue() {
-  return stdin.readLineSync().toString();
-}
+String getStrValue() => stdin.readLineSync().toString();
 
-int getIntValue() {
-  return int.parse(getStrValue());
-}
+
+int getIntValue() => int.parse(getStrValue());
+
 
 ///1. Find the Greatest of given 3 no's. (done)
 ///2. Find the Smallest of given 3 no's. (do it yourself)

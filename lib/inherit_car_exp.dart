@@ -20,6 +20,10 @@ void main(){
 
 }
 
+accelerate(){
+
+}
+
 class Car{
   String name;
   String owner;
@@ -51,6 +55,7 @@ class Thar extends Car{
 
 
   //thar functionalities
+
 
 
 }
